@@ -1,3 +1,7 @@
+# Try it out
+
+https://thirsty-darwin-10e2ea.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
